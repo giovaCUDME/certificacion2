@@ -78,8 +78,17 @@ body {
     height: 100px;
 }
 
+.texto{
+    font-size: 20px;
+}
+
+.aling{
+display: flex;
+align-items: center;
+justify-content: ed;
+}
+
 .boton{
-    margin: 30px;
     background-color: rgb(0, 0, 0);
     color: white;
     width: 130px;
@@ -92,8 +101,8 @@ body {
 }
 
 .niño{
-    height: 400px;
-    width: 600px;
+    height: 300px;
+    width: 500px;
 }
 
 .todo{
